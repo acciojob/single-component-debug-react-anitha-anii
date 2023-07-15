@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>Hello, I can create full-fledged React components now!</h1>
+      <p id="main">Hello, I can create full-fledged React components now!</p>
       {/* Removed lines of code */}
     </div>
   );

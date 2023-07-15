@@ -1,2 +1,13 @@
-<p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
+import React from 'react';
+
+function App() {
+  return (
+    <div>
+      <h1>Hello, I can create full-fledged React components now!</h1>
+      {/* Removed lines of code */}
+    </div>
+  );
+}
+
+export default App;
 

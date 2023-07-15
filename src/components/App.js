@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <p id="main">Hello, I can create full-fledged React components now!</p>
+      <p id="main">Now I can render any React component on any DOM node I want using ReactDOM.render</p>
       {/* Removed lines of code */}
     </div>
   );
